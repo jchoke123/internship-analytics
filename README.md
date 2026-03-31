@@ -210,5 +210,5 @@ A full conversational coaching web app that addresses every v1 limitation:
 
 **Jonah Choke**
 - GitHub: [@jchoke123](https://github.com/jchoke123)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonah-choke-520a94341)
+- LinkedIn: [linkedin.com/in/jonah-choke-520a94341](https://www.linkedin.com/in/jonah-choke-520a94341)
 - Email: jchoke001@e.ntu.edu.sg
