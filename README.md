@@ -125,7 +125,7 @@ Loads the clean dataset into SQLite and runs 6 analytical queries, each answerin
 
 ## 📈 Part 3 — Looker Studio Dashboard
 
-**Live Dashboard:** [Click here to view →](https://lookerstudio.google.com/your-link-here)
+**Live Dashboard:** [Click here to view →](https://lookerstudio.google.com/reporting/677370dd-57f0-4502-be41-8148d94ce080)
 
 An interactive dashboard built on top of the SQL analysis, featuring:
 - Application funnel (Applied → Interview → Rejected)
@@ -208,7 +208,7 @@ A full conversational coaching web app that addresses every v1 limitation:
 
 ## 📬 Contact
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@email.com
+**Jonah Choke**
+- GitHub: [@jchoke123](https://github.com/jchoke123)
+- LinkedIn: [linkedin.com/in/jonah-choke-520a94341](linkedin.com/in/jonah-choke-520a94341)
+- Email: jchoke001@e.ntu.edu.sg
