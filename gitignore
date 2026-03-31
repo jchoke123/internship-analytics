@@ -1,0 +1,17 @@
+# API keys — never commit these
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Database (regenerate by running part2_sql_analysis.py)
+applications.db
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/

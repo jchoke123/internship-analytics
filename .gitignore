@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.env
+applications.db
+.DS_Store
+.vscode/

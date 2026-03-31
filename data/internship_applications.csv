@@ -1,0 +1,81 @@
+company_name,role,date_applied,status,response_time_days,resume_type,industry,month_applied,month_num,year_applied,got_response,status_rank
+Mastercard,Strategy Intern,2024-08-10,rejected,26,generic,Technology,August,8,2024,0,0
+Ey,Data Science Intern,2024-06-09,applied,26,tailored,Consulting,June,6,2024,0,1
+Deloitte,Accounting Intern,2024-03-17,rejected,34,tailored,Consulting,March,3,2024,0,0
+Palantir,Data Science Intern,2024-08-03,applied,16,generic,Banking,August,8,2024,0,1
+Uob,Data Science Intern,2024-06-12,applied,20,tailored,Real Estate,June,6,2024,0,1
+Ocbc,Business Analyst Intern,2024-05-09,applied,9,generic,Consulting,May,5,2024,0,1
+Ocbc,Risk Analyst Intern,2024-06-04,interview,28,tailored,Banking,June,6,2024,1,2
+Goldman Sachs,Finance Intern,2024-02-20,interview,56,tailored,Technology,February,2,2024,1,2
+Palantir,Product Analyst Intern,2024-02-09,interview,26,tailored,Real Estate,February,2,2024,1,2
+Ey,Accounting Intern,2024-04-05,interview,34,generic,Real Estate,April,4,2024,1,2
+Visa,Operations Intern,2024-07-14,interview,26,tailored,Telecommunications,July,7,2024,1,2
+Palantir,Business Analyst Intern,2024-02-11,rejected,31,tailored,Healthcare,February,2,2024,0,0
+St Engineering,Accounting Intern,2024-05-18,rejected,26,generic,Government,May,5,2024,0,0
+Kpmg,Strategy Intern,2024-07-18,rejected,5,generic,Real Estate,July,7,2024,0,0
+Capitaland,Audit Intern,2024-08-24,interview,18,tailored,Finance,August,8,2024,1,2
+Mckinsey,Risk Analyst Intern,2024-05-15,interview,33,tailored,Banking,May,5,2024,1,2
+Pwc,Operations Intern,2024-08-23,interview,59,generic,Real Estate,August,8,2024,1,2
+Deloitte,Business Analyst Intern,2024-01-01,applied,32,tailored,Real Estate,January,1,2024,0,1
+Kpmg,Data Science Intern,2024-06-02,rejected,34,generic,Finance,June,6,2024,0,0
+Dbs Bank,Data Analyst Intern,2024-03-23,interview,7,generic,Real Estate,March,3,2024,1,2
+Ocbc,Business Analyst Intern,2024-05-05,interview,17,generic,Government,May,5,2024,1,2
+Singtel,Data Analyst Intern,2024-01-05,rejected,45,generic,Finance,January,1,2024,0,0
+Temasek Holdings,Data Science Intern,2024-01-29,applied,18,tailored,Telecommunications,January,1,2024,0,1
+Deloitte,Audit Intern,2024-08-25,rejected,21,generic,E-Commerce,August,8,2024,0,0
+St Engineering,Risk Analyst Intern,2024-04-02,rejected,51,generic,Real Estate,April,4,2024,0,0
+Dbs Bank,Finance Intern,2024-08-12,applied,16,tailored,Real Estate,August,8,2024,0,1
+Stripe,Business Analyst Intern,2024-07-31,rejected,4,generic,Healthcare,July,7,2024,0,0
+Mastercard,Product Analyst Intern,2024-07-25,rejected,50,tailored,Healthcare,July,7,2024,0,0
+Stripe,Data Science Intern,2024-03-19,applied,26,tailored,Banking,March,3,2024,0,1
+St Engineering,Business Analyst Intern,2024-03-02,applied,9,generic,Government,March,3,2024,0,1
+Mckinsey,Strategy Intern,2024-01-15,interview,11,tailored,Banking,January,1,2024,1,2
+Ocbc,Audit Intern,2024-03-02,applied,43,tailored,E-Commerce,March,3,2024,0,1
+Boston Consulting Group,Strategy Intern,2024-08-12,applied,8,generic,Real Estate,August,8,2024,0,1
+Capitaland,Accounting Intern,2024-05-25,interview,42,generic,Government,May,5,2024,1,2
+Uob,Risk Analyst Intern,2024-01-21,rejected,26,generic,Finance,January,1,2024,0,0
+Deloitte,Accounting Intern,2024-01-22,applied,26,tailored,Real Estate,January,1,2024,0,1
+Meta,Business Analyst Intern,2024-07-06,rejected,34,generic,Telecommunications,July,7,2024,0,0
+Jp Morgan,Operations Intern,2024-05-04,rejected,3,generic,Real Estate,May,5,2024,0,0
+Stripe,Operations Intern,2024-07-27,applied,56,generic,Consulting,July,7,2024,0,1
+Mckinsey,Risk Analyst Intern,2024-01-18,rejected,3,tailored,Government,January,1,2024,0,0
+Shopee,Product Analyst Intern,2024-07-13,interview,41,tailored,Consulting,July,7,2024,1,2
+Uob,Audit Intern,2024-05-16,applied,22,tailored,Healthcare,May,5,2024,0,1
+Goldman Sachs,Product Analyst Intern,2024-07-15,applied,53,generic,Finance,July,7,2024,0,1
+Dbs Bank,Audit Intern,2024-02-02,rejected,45,generic,Real Estate,February,2,2024,0,0
+Meta,Data Science Intern,2024-02-02,interview,15,generic,Finance,February,2,2024,1,2
+Shopee,Business Analyst Intern,2024-06-17,interview,48,generic,Technology,June,6,2024,1,2
+Ey,Accounting Intern,2024-05-01,interview,25,generic,Real Estate,May,5,2024,1,2
+Kpmg,Operations Intern,2024-05-20,rejected,56,tailored,Consulting,May,5,2024,0,0
+Accenture,Strategy Intern,2024-02-12,rejected,25,generic,Government,February,2,2024,0,0
+Ey,Finance Intern,2024-03-08,applied,44,generic,Consulting,March,3,2024,0,1
+Sea Limited,Data Analyst Intern,2024-05-15,applied,10,tailored,Finance,May,5,2024,0,1
+Sea Limited,Finance Intern,2024-08-11,interview,24,tailored,E-Commerce,August,8,2024,1,2
+Temasek Holdings,Accounting Intern,2024-06-04,rejected,26,generic,Real Estate,June,6,2024,0,0
+Uob,Accounting Intern,2024-04-18,rejected,13,tailored,Telecommunications,April,4,2024,0,0
+Pwc,Audit Intern,2024-02-24,interview,22,tailored,Banking,February,2,2024,1,2
+Palantir,Product Analyst Intern,2024-08-25,rejected,52,tailored,Government,August,8,2024,0,0
+Boston Consulting Group,Finance Intern,2024-05-18,rejected,40,tailored,Telecommunications,May,5,2024,0,0
+St Engineering,Audit Intern,2024-07-12,rejected,17,tailored,Telecommunications,July,7,2024,0,0
+Ey,Audit Intern,2024-07-05,rejected,26,tailored,Real Estate,July,7,2024,0,0
+Accenture,Product Analyst Intern,2024-06-25,interview,22,generic,E-Commerce,June,6,2024,1,2
+Kpmg,Strategy Intern,2024-02-21,applied,41,tailored,Real Estate,February,2,2024,0,1
+St Engineering,Operations Intern,2024-07-01,applied,21,generic,E-Commerce,July,7,2024,0,1
+Grab,Risk Analyst Intern,2024-03-20,applied,26,generic,Technology,March,3,2024,0,1
+Mastercard,Operations Intern,2024-04-12,rejected,16,tailored,Government,April,4,2024,0,0
+Temasek Holdings,Data Analyst Intern,2024-06-20,applied,59,generic,Finance,June,6,2024,0,1
+Sea Limited,Finance Intern,2024-06-15,interview,26,tailored,Healthcare,June,6,2024,1,2
+Capitaland,Operations Intern,2024-04-05,applied,21,tailored,Finance,April,4,2024,0,1
+Dbs Bank,Risk Analyst Intern,2024-04-22,interview,27,generic,Telecommunications,April,4,2024,1,2
+Stripe,Data Science Intern,2024-08-18,rejected,8,tailored,Banking,August,8,2024,0,0
+Kpmg,Finance Intern,2024-05-12,interview,12,generic,Technology,May,5,2024,1,2
+Pwc,Risk Analyst Intern,2024-04-25,applied,26,generic,Finance,April,4,2024,0,1
+Visa,Audit Intern,2024-01-31,interview,32,tailored,Finance,January,1,2024,1,2
+Ocbc,Accounting Intern,2024-03-04,rejected,42,generic,Banking,March,3,2024,0,0
+Meta,Strategy Intern,2024-02-27,applied,44,tailored,Banking,February,2,2024,0,1
+Grab,Data Analyst Intern,2024-01-17,applied,26,tailored,Finance,January,1,2024,0,1
+Kpmg,Risk Analyst Intern,2024-03-27,rejected,55,tailored,Consulting,March,3,2024,0,0
+Ocbc,Operations Intern,2024-01-06,interview,40,generic,Banking,January,1,2024,1,2
+Ey,Accounting Intern,2024-05-30,rejected,26,tailored,Consulting,May,5,2024,0,0
+Accenture,Operations Intern,2024-05-21,rejected,31,tailored,Government,May,5,2024,0,0
+Uob,Finance Intern,2024-02-28,rejected,20,generic,Technology,February,2,2024,0,0

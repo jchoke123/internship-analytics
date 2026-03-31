@@ -1,0 +1,4 @@
+streamlit
+scikit-learn
+PyPDF2
+anthropic
