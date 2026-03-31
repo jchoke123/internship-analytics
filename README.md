@@ -140,6 +140,16 @@ An interactive dashboard built on top of the SQL analysis, featuring:
 
 ---
 
+## 💡 Key Insights from the Data
+
+- **30% response rate** — above the typical 10–20% industry benchmark
+- **May had the highest application volume** (14 applications) and response rate
+- **Banking and Technology** tied for best response rate at 50%
+- **Consulting** had the lowest response rate (11%) despite high effort
+- **Tailored vs generic resumes** — tracked and compared using the `got_response` flag
+
+---
+
 ## 🤖 Part 4 — AI Career Coach (NLP + LLM)
 
 ### v1: NLP Prototype (`part4_resume_matcher.py`)
@@ -174,16 +184,6 @@ A full conversational coaching web app that addresses every v1 limitation:
 - 📋 Sidebar navigation between past role analyses
 - 💬 Free Q&A after each report — ask anything career-related
 - 🎯 Session summary with per-role insights at the end
-
----
-
-## 💡 Key Insights from the Data
-
-- **30% response rate** — above the typical 10–20% industry benchmark
-- **May had the highest application volume** (14 applications) and response rate
-- **Banking and Technology** tied for best response rate at 50%
-- **Consulting** had the lowest response rate (11%) despite high effort
-- **Tailored vs generic resumes** — tracked and compared using the `got_response` flag
 
 ---
 
