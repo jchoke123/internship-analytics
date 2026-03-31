@@ -155,7 +155,7 @@ The first approach used TF-IDF keyword extraction and cosine similarity to compu
 
 These limitations motivated a complete rebuild.
 
-### v2: AI Career Coach (`app.py`) — [Live Demo →](https://your-streamlit-app.streamlit.app)
+### v2: AI Career Coach (`app.py`) — [Live Demo →](https://internship-analytics.streamlit.app/)
 
 A full conversational coaching web app that addresses every v1 limitation:
 
